@@ -1,2 +1,2 @@
-My first readme
-I am just following alx steps to udate this
+# alx-zero-day
+This repository contains alx first tasks
